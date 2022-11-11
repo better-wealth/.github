@@ -1,2 +1,2 @@
-# .github
-Better wealth management tools.
+# better-wealth
+## Better wealth management tools.
