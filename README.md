@@ -18,6 +18,8 @@
 > - [ ] A circular data economy, where data producers are compensated by data consumers, based on the value of their data, given the data is private/anonymous.
 > - [ ] A data marketplace, using smart contracts and a proof-of-contribution protocol, with secure integrations for data producers, facilitating automated data value exchange.
 > - [ ] A set of tools for inferring schemas from structured and unstructured data, and using the inferred schemas to generate data classes.
+> - [ ] A standardized framework for modeling data based on set theory, allowing for the separation of the information space and the machine space.
+> - [ ] A base coverage of common data schemas, structures, and classes (ex: company, ticker, options-contract, commodity, currency, user, brokerage, etc...)
 ### 🌐 better-macroeconomics 
 > - [ ] Automated, private, and secure macroeconomics data ingestion.
 > - [ ] A standardized framework for macroeconomics data valuation.
