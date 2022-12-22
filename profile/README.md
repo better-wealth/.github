@@ -59,3 +59,5 @@ collective intelligence.
 > - [ ] Automated, private, and secure alternative investment (art, wine, shoes, cars, cards, NFTs, etc...) data ingestion.
 > - [ ] A standardized framework for alternative investment data valuation.
 > - [ ] A set of tools for secure alternative investment data contribution, compensation, collaboration, and collective intelligence.
+
+![better-wealth-qr-640](https://user-images.githubusercontent.com/16747783/209033761-9f327856-c000-4f8c-aa33-ea6c6bbb741e.png)
